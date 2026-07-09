@@ -1,0 +1,9 @@
+ultralytics
+opencv-python
+numpy
+transformers  # Depth Anything V2 (depth-anything/Depth-Anything-V2-Metric-Hypersim-Small-hf)
+# Install torch/torchvision with the CUDA build matching your GPU box:
+#   https://pytorch.org/get-started/locally/
+torch
+torchvision
+# SAM2 weights (sam2.1_*.pt) and bytetrack.yaml ship with / auto-download via ultralytics.
